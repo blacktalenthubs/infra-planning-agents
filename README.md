@@ -17,6 +17,13 @@ Planners today work out of notebooks and email threads. This system replaces tha
 | 03 | [Multi-agent forecasting](projects/03-multi-agent-forecasting/BRIEF.md) | Multi-agent orchestration, eval harness, prompt iteration | Not started |
 | 04 | [Forecast data pipeline](projects/04-forecast-pipeline/BRIEF.md) | Queues, D1/R2, statistical forecasting, drift monitoring | Not started |
 
+## Start here — in this order
+
+1. [CONCEPTS.md](CONCEPTS.md) — core concepts before any building: the runtime, TypeScript and schemas, the storage spectrum, durable execution, agents, trust, forecasting. Ends with a readiness gate.
+2. [SETUP.md](SETUP.md) — local toolchain: Node, Wrangler, Cloudflare login, the daily dev loop.
+3. [STUDY_PLAN.md](STUDY_PLAN.md) — the depth-focus curriculum: seven domains, resources, and the week-by-week schedule.
+4. The project briefs below, in order.
+
 ## Docs
 
 - [STUDY_PLAN.md](STUDY_PLAN.md) — the depth-focus curriculum: seven domains, resources, and the week-by-week schedule.
