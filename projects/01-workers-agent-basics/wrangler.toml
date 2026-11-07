@@ -1,0 +1,7 @@
+name = "ipa-01-agent-basics"
+main = "src/index.ts"
+compatibility_date = "2026-10-01"
+
+# Workers AI — runs against your account even in local dev (see SETUP.md).
+[ai]
+binding = "AI"
